@@ -369,3 +369,7 @@
     border-radius: 10px;
   }
   
+  /* 博客作者头像不旋转 */
+  .avatar-img img:hover {
+    transform: none;
+  } 
