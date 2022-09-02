@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>The 5th. Day</title>
+      <link href="/posts/d64231d9.html"/>
+      <url>/posts/d64231d9.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="稍有插曲的一天"><a href="#稍有插曲的一天" class="headerlink" title="稍有插曲的一天"></a>稍有插曲的一天</h2><p>今天恢复了网站的更新，具体情况在上一篇的评论区说了。今天应该是能正常更新的，虽然之前试了下，发现到晚上我的电脑的不能把文件push到github中，报错显示是：</p><blockquote><p>ssh: connect to host github.com port 22: Operation timed out </p></blockquote><p>但在度娘中发现了一种<a href="https://blog.csdn.net/SCUTJcfeng/article/details/79572589">用443端口的方法</a>解决了问题。</p><p>具体方法就不在这里写了，目前还没打算开设技术博客文章，仅记录下日常。待时机成熟，技术篇应该会以某种方式出现的。</p><h2 id="小摆了一天"><a href="#小摆了一天" class="headerlink" title="小摆了一天"></a>小摆了一天</h2><p>今天虽然接着学了点pytorch，但也只学了这一个（搭建博客网站排除），其余时间便是刷视频度过光阴，要说学到什么，只能是感慨到现在的人们太聪明了，当然我可不至于就此而丧里丧气，我开摆或多或少都是按计划开摆的（确真），目前自我感觉良好。</p><h2 id="对未来的警惕与期望"><a href="#对未来的警惕与期望" class="headerlink" title="对未来的警惕与期望"></a>对未来的警惕与期望</h2><p>即将踏入新的领域，既紧张又担心。但总体还是期待，因为这新领域意味着许多可能性，也是人生旅途的必经之路。既然无论如何都得走，何不乐观点呢。</p><p>这个对未来充满想象的人，正踏在属于自己的旅途上。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Life </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>The 4Th. Day</title>
       <link href="/posts/d55508db.html"/>
       <url>/posts/d55508db.html</url>
